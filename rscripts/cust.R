@@ -1,3 +1,4 @@
-cust <- read.csv("CUSTOMERS.csv", header=TRUE);
+cust <- read.csv("..\\CUSTOMERS.csv", header=TRUE);
+
 
 
